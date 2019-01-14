@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+header {
+    padding: 5px 0px 5px 0px;
+    background: darkgray;
+}
+
+h1, h2, h3, header {
+    color: blue;
+    padding: 10px 0px 10px 0px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+h1#intro {
+    font-size: 30px
+}
+
+main {
+    background: lightgray;
+}
+
+p {
+    color: black;
+}
+
+img {
+    padding: 10px 0px 10px 0px;
+}
+
+div {
+    margin: 15px;
+}
+
+section {
+    background: darkgray;
+}
